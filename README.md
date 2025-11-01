@@ -6,3 +6,5 @@ AI時代の羅針盤
 [2510.12269] Tensor Logic: The Language of AI https://arxiv.org/abs/2510.12269
 
 Tensor Logic: The Language of AI  https://tensor-logic.org
+
+DaSSWeb | Tensor Logic: A Simple Unification of Neural and Symbolic AI https://youtu.be/QCuJouPVUIY?si=KJyQQmPuW_nCWelO via @YouTube 
